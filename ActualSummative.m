@@ -1,11 +1,7 @@
 % Summative 2 code
 % Due 25/03/2022
 % ---------------------------------
-% Group 24:
-%     k20074264 Shivani Kakkad
-%     k20038514 Stella Hadfield
-%     k20046622 Natyada Julintron
-%     k20044349 Antonia Massmann
+% Group 24
 % ---------------------------------
 
 % QUESTION 1 ----------------------
